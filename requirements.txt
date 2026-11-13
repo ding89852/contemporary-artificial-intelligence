@@ -1,0 +1,7 @@
+torch==2.11.0
+torchvision==0.26.0
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.4
+seaborn>=0.13
+Pillow>=10
